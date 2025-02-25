@@ -39,7 +39,7 @@ A full-stack To-Do application built with React for the frontend, Express with M
 Clone the repository:
 
 ```bash
-git clone repo link
+git clone https://github.com/Hashan-Kogul/To-Do-Task-App.git
 cd todo-task-app
 ```
 
